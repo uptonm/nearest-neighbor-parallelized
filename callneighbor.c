@@ -3,7 +3,7 @@
 
 // I'm defining these to avoid having them be magic numbers.
 // 'conts ints' would work just as well
-#define neighborcount  30
+#define neighborcount  3000
 #define neighborhood_x 100
 #define neighborhood_y 100
 #define neighborhood_z -1
